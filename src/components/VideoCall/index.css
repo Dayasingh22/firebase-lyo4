@@ -1,20 +1,15 @@
-body, html {
+/* body, html {
     background-color: rgb(209, 202, 202);
-}
+} */
 .OT_subscriber {
-    float: left;
-    margin-left: 10%;
-
-
-
+  float: left;
+  margin-left: 10%;
 }
 .OT_publisher {
-    float: left;
-    margin-left: 8%;
-    width:  10%;
-    
+  float: left;
+  margin-left: 8%;
+  width: 10%;
 }
 .error {
-    color: red;
+  color: red;
 }
-
